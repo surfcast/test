@@ -1,0 +1,16 @@
+{
+    "min_lon":  5,
+    "max_lon":  18,
+    "min_lat":  67,
+    "max_lat":  75,
+    "point_lat": 68.29,
+    "point_lon": 13.581,
+    "text_lat": 68.5,
+    "text_lon": 14.2,
+    "text_label": "Unstad",
+    "data_dir": "/home/anna/annaCode/webpage/testdata",
+    "out_dir" : "/home/anna/annaCode/webpage/testdata/out",
+    "webserver_dir": "/home/aniaw/public_html",
+    "ftp_host": "nrt.cmems-du.eu",
+    "ftp_dir": "/Core/GLOBAL_ANALYSIS_FORECAST_WAV_001_027/global-analysis-forecast-wav-001-027"
+}

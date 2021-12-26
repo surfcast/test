@@ -1,0 +1,16 @@
+os
+pathlib
+datetime
+json
+xarray
+numpy
+pandas
+netCDF4
+cmocean
+matplotlib
+cartopy
+math
+scp
+ftplib
+ipywidgets
+voila
